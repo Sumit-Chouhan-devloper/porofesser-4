@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  font-family: "Assistant", sans-serif, Arial, sans-serif;
+  font-variant: normal;
+  scroll-behavior: smooth;
+}
+
+.font-assistant {
+  font-family: "Assistant", sans-serif, Arial, sans-serif !important;
+  font-variant: normal;
+}
+
+/*---------------------------- DEFINE = FONT-FAMILY---------------------------- */
+
+@font-face {
+  font-family: Klavika-bold;
+  src: url("/assets/font/klavika-bold.otf");
+}
+@font-face {
+  font-family: Klavika-regular;
+  src: url("/assets/font/Klavika-Regular.otf");
+}
+
+.ff-Klavika-bold {
+  font-family: Klavika-bold !important;
+}
+
+.ff-Klavika-regular {
+  font-family: Klavika-regular !important;
+}
+
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #0000003e;
+  backdrop-filter: blur(10px);
+  transform: scale(0);
+  transition: all 300ms linear;
+}
+
+.open-popup {
+  transform: scale(1);
+}
+
+.popup_bg {
+  background-image: url("../img/webp/popup-bg.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom_border_radius {
+  border-radius: 0px 0px 18px 18px;
+}
+
+@media (max-width: 510px) {
+  .popup_bg {
+    background-image: url("../img/webp/popup-bg-small-screen.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+.pulse:hover,
+.pulse:focus {
+  -webkit-animation: pulse 1s;
+  animation: pulse 1s;
+  -webkit-box-shadow: 0 0 0 0.4em transparent;
+  box-shadow: 0 0 0 0.4em transparent;
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 #0bc6e3;
+    box-shadow: 0 0 0 0 #0bc6e3;
+  }
+}
+
+/* user3 */
+.stroked-text {
+  -webkit-text-stroke: 2px !important;
+  -webkit-text-stroke-color: white !important;
+  color: #0bc6e3 !important;
+}
+
+.bg_gradinet {
+  fill: linear-gradient(180deg, rgba(22, 19, 38, 0) 19.74%, #161326 100%);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0bc6e3;
+  border-radius: 6px;
+}
+
+.back-to-top {
+  scale: 0;
+  transition: all 300ms linear;
+  bottom: -50px !important;
+}
+
+.show-back-to-top {
+  scale: 1;
+  bottom: 0 !important;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+p {
+  line-height: normal;
+}
+.download_icon:hover svg path {
+  stroke: #fff;
+
+}

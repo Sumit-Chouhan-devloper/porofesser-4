@@ -1,0 +1,43 @@
+<svg width="141" height="109" viewBox="0 0 141 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="76.1045" y="84.5137" width="23.0101" height="6.76692" fill="#6C5C99" fill-opacity="0.5"/>
+<mask id="mask0_10_6411" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="39" y="23" width="102" height="67">
+<path d="M136.772 26H42.7046C42.3155 26 42 26.3089 42 26.69V85.4162C42 85.7973 42.3155 86.1062 42.7046 86.1062H136.772C137.161 86.1062 137.476 85.7973 137.476 85.4162V26.69C137.476 26.3089 137.161 26 136.772 26Z" fill="#262626" stroke="#333333" stroke-width="6" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_10_6411)">
+<path d="M136.772 26H42.7046C42.3155 26 42 26.3089 42 26.69V85.4162C42 85.7973 42.3155 86.1062 42.7046 86.1062H136.772C137.161 86.1062 137.476 85.7973 137.476 85.4162V26.69C137.476 26.3089 137.161 26 136.772 26Z" fill="#262626" stroke="#333333" stroke-width="6" stroke-linejoin="round"/>
+</g>
+<path d="M138 27.8115H45.6982V84.3913H138V27.8115Z" fill="#6C5C99"/>
+<path d="M135.711 29.8818H48.3413V82.3217H135.711V29.8818Z" fill="#201C33"/>
+<mask id="mask1_10_6411" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="48" y="29" width="88" height="54">
+<path d="M135.533 29.583H48.1636V82.0228H135.533V29.583Z" fill="#07373E"/>
+</mask>
+<g mask="url(#mask1_10_6411)">
+<path d="M94.5246 63.1749H83.5726C82.8902 55.4055 85.0684 51.3822 85.4001 49.9145L81.3477 50.7501C82.5898 42.4853 86.0914 34.7394 91.0712 27.8125H107.528C104.313 30.7988 102.16 33.9659 99.8387 39.826L105.965 38.6407C98.3717 46.6964 95.3845 54.8307 94.5246 63.1749Z" fill="#0BC6E3"/>
+<path d="M89.924 73.7828L80.1514 57.207H99.6967L89.924 73.7828Z" fill="#0BC6E3"/>
+<g style="mix-blend-mode:screen">
+<path d="M46.8761 95.5055L136.36 16.8457H34.1934V95.5055H46.8761Z" fill="#6C5C99" fill-opacity="0.48"/>
+</g>
+</g>
+<rect x="78.5698" y="83.5146" width="23.0101" height="6.76692" fill="#6C5C99"/>
+<path d="M64.5996 95.0575C64.5996 92.1996 66.9164 89.8828 69.7743 89.8828H109.965C112.823 89.8828 115.14 92.1996 115.14 95.0575H64.5996Z" fill="#6C5C99"/>
+<g filter="url(#filter0_d_10_6411)">
+<mask id="path-12-outside-1_10_6411" maskUnits="userSpaceOnUse" x="19" y="20" width="38" height="72" fill="black">
+<rect fill="white" x="19" y="20" width="38" height="72"/>
+<path d="M54.9651 90H39.9891V40.184L28.2371 46.528L21.7891 34.152L41.4451 22.816H54.9651V90Z"/>
+</mask>
+<path d="M54.9651 90H39.9891V40.184L28.2371 46.528L21.7891 34.152L41.4451 22.816H54.9651V90Z" fill="#0BC6E3"/>
+<path d="M54.9651 90V92H56.9651V90H54.9651ZM39.9891 90H37.9891V92H39.9891V90ZM39.9891 40.184H41.9891V36.8315L39.039 38.4241L39.9891 40.184ZM28.2371 46.528L26.4634 47.4521L27.4011 49.252L29.1871 48.2879L28.2371 46.528ZM21.7891 34.152L20.7899 32.4195L19.13 33.3768L20.0154 35.0761L21.7891 34.152ZM41.4451 22.816V20.816H40.9097L40.4459 21.0835L41.4451 22.816ZM54.9651 22.816H56.9651V20.816H54.9651V22.816ZM54.9651 88H39.9891V92H54.9651V88ZM41.9891 90V40.184H37.9891V90H41.9891ZM39.039 38.4241L27.287 44.7681L29.1871 48.2879L40.9391 41.9439L39.039 38.4241ZM30.0108 45.6039L23.5628 33.2279L20.0154 35.0761L26.4634 47.4521L30.0108 45.6039ZM22.7882 35.8845L42.4442 24.5485L40.4459 21.0835L20.7899 32.4195L22.7882 35.8845ZM41.4451 24.816H54.9651V20.816H41.4451V24.816ZM52.9651 22.816V90H56.9651V22.816H52.9651Z" fill="#403366" mask="url(#path-12-outside-1_10_6411)"/>
+</g>
+<defs>
+<filter id="filter0_d_10_6411" x="17.7891" y="22.8164" width="41.1758" height="75.1836" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_10_6411"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_10_6411" result="shape"/>
+</filter>
+</defs>
+</svg>
